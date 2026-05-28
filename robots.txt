@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ziza-nail-spa-sugar-grove.vercel.app/sitemap.xml
